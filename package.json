@@ -17,6 +17,5 @@
     "typescript": "^5.5.3",
     "vitest": "^2.1.8",
     "yarn": "^1.22.19"
-  },
-  "packageManager": "yarn@3.4.1"
+  }
 }
